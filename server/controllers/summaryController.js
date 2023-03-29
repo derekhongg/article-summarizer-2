@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from 'axios';
 import Summary from "../views/Summary";
 
 const getSummary = async (url, setSummary) => {
